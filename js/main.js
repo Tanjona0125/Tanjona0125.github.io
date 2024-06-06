@@ -51,7 +51,7 @@ function scroll(){
         profil.style= 'opacity:0;'
         nom.style= 'opacity:0;right:-4em;'
         post.style= 'opacity:0;left:-4em;'
-        header.style= 'box-shadow: 0 0 10px black;background: rgb(12, 12, 12)'
+        header.style= 'box-shadow: 0 0 10px black;background: rgb(0, 2, 17)'
         circleUp.style= 'top:88vh;'
     }
 }
