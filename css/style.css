@@ -324,7 +324,7 @@ header .circleUp a i {
 }
 .sect2 .zsect2 .desc {
   display: flex;
-  align-items: center;
+  align-items: start;
   justify-content: space-around;
   margin: 6em 0;
   position: relative;
@@ -345,8 +345,8 @@ header .circleUp a i {
 }
 .sect2 .zsect2 .desc img {
   width: auto;
-  height: 30em;
-  max-width: 50em;
+  height: 25em;
+  max-width: 40em;
   transition: 0.5s ease-in-out;
   position: relative;
   border-radius: 30px;
@@ -716,6 +716,7 @@ footer .zFooter {
   justify-content: start;
   padding: 2em;
   padding-bottom: 0;
+  justify-content: space-around;
 }
 footer .zFooter .myContact {
   width: 30%;
@@ -763,7 +764,7 @@ footer .zFooter .nav h3 {
   margin: 0.5em;
 }
 footer .zFooter .nav nav {
-  padding: 2em;
+  padding: 2em 0;
 }
 footer .zFooter .nav nav ul {
   display: flex;
